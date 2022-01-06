@@ -1,9 +1,5 @@
 ### 🌱 Hi, I am a growing developer Hyeonseop Jeong 🌱
 
-> [See my portfolio](https://shorturl.at/abeuP)
-
-
-
 
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HyeonseopJeong)
