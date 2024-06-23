@@ -1,6 +1,3 @@
-### 🌱 Hi, I am a growing developer Hyeonseop Jeong 🌱
-
-
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HyeonseopJeong)
 
